@@ -4,9 +4,13 @@ Email: <ltm@mulm.dk>
 
 ## Experience
 
+### Ionic
+
+#### Chief Architect                             _Oct 2017 -- Present_
+
 ### HubSpot, Inc.
 
-#### Senior Software Engineer                    _Apr 2016 -- Present_
+#### Senior Software Engineer                   _Apr 2016 -- Oct 2017_
 
 - Improved the performance and scalability of existing feature
   toggling infrastructure.
@@ -63,6 +67,16 @@ Email: <ltm@mulm.dk>
 - Developed a web-based client using ASP.NET and YUI.
 - Developed an Android app in Java.
 
+
+## Patents
+
+- Friend, et al. Systems and methods for reliable backup of media.  
+  US Patent 9,369,507, filed March 12, 2013, and issued June 14, 2016.
+- Guo, et al. Methodologies to secure inter-process communication based on
+  trust.  
+  US Patent 7,774,599, filed September 15, 2006, and issued August 10,
+  2010.
+
 ## Education
 
 ### Aalborg University
@@ -72,7 +86,7 @@ Email: <ltm@mulm.dk>
 - Secure IPC (Master's Thesis):  
   Identified possible security issues with the current System V IPC
   mechanism in Linux. Designed a trust-based solution and implemented
-  it using the LSM-framework. United States Patent 7,774,599.
+  it using the LSM-framework.
 
 #### BS, Computer Science                               _2002 -- 2005_
 
@@ -83,7 +97,7 @@ Email: <ltm@mulm.dk>
 
 ## Skills
 
-- Languages: Java, Python, C#, HTML, CSS, JavaScript, Bash, Go
-- Operating Systems: OS X, Android, Linux, Windows
-- Applications: Nginx, uWSGI, IIS, SQL Server, Apache, MySQL
-- Tools: IntelliJ, Eclipse, Visual Studio, Git
+- Languages: Python, Java, HTML, CSS, JavaScript, Bash, Go, C#
+- Operating Systems: macOS, Linux, Android, iOS, Windows
+- Applications: Nginx, uWSGI, PostgreSQL, MySQL
+- Tools: IntelliJ, Vim, Git, Terraform
