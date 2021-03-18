@@ -1,6 +1,6 @@
 # Lars T. Mikkelsen
 
-Email: <ltm@mulm.dk>
+Email: <lars@mikkelsen.dev>
 
 ## Experience
 
