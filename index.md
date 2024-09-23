@@ -4,9 +4,23 @@ Email: <lars@mikkelsen.dev>
 
 ## Experience
 
+### OutSystems
+
+#### Distinguished Architect                     _Jan 2024 -- Present_
+
+- Architect for Mobile, including Client Runtime and UI Components.
+
 ### Ionic
 
-#### Chief Architect                             _Oct 2017 -- Present_
+#### Chief Architect                            _Oct 2017 -- Dec 2023_
+
+- Led the implementation of SOC 2 Type 1 and SOC 2 Type 2.
+- Designed and implemented a continuous delivery service for mobile
+  apps.
+- Implemented a scalable build service for Android apps using
+  Kubernetes.
+- Implemented a scalable build service for iOS apps using VMware
+  vSphere.
 
 ### HubSpot, Inc.
 
