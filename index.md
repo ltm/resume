@@ -4,9 +4,15 @@ Email: <lars@mikkelsen.dev>
 
 ## Experience
 
+### ABBYY
+
+#### Distinguished Architect                     _Oct 2024 -- Present_
+
+- Architect for Vantage.
+
 ### OutSystems
 
-#### Distinguished Architect                     _Jan 2024 -- Present_
+#### Distinguished Architect                    _Jan 2024 -- Oct 2024_
 
 - Architect for Mobile, including Client Runtime and UI Components.
 
