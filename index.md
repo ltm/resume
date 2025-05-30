@@ -8,7 +8,7 @@ Email: <lars@mikkelsen.dev>
 
 #### Distinguished Architect                     _Oct 2024 -- Present_
 
-- Architect for Vantage.
+- Architect for FineReader Engine and Vantage.
 
 ### OutSystems
 
